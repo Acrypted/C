@@ -1,2 +1,2 @@
 # C
-C++ switch statement calculator
+Learning C++ to be better equipped with greater coding knowledge.
